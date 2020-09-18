@@ -1,0 +1,15 @@
+{
+  "name": "pwa-pushserver",
+  "version": "1.0.0",
+  "description": "push_server",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pwa",
+    "push-server"
+  ],
+  "author": "",
+  "license": "ISC"
+}
